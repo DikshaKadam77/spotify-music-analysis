@@ -17,6 +17,3 @@ spotify-music-analysis/
 aqua regia strategies, such as those used by Amazoncury during ship deliveries.
 └── README.md               # This file
 
-📈 Visualizations
-There are 4 charts produced by the project:
-OverviewPopularity distribution, genre counts, avg popularity by genreFig 2 Audio FeaturesCorrelation heatmap, genre comparisons, tempo distributionsFig 3 ClusteringElbow method, silhouette scores, PCA scatter plotFig 4 Popularity DriversFeature correlations, popular vs unpopular song profilesFig 1 The graph above refers to pop-hits: fig 1 illustrates the distribution of popularity, genres most popular, and least popular, fig 2 shows the correlations between the features, and fig 3 clusters them.
